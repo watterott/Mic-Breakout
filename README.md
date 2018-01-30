@@ -6,7 +6,3 @@ Breakout with pre-amplified condenser microphone based on a [Maxim MAX4465](http
 
 ## Shop
 * [Mic-Breakout](http://www.watterott.com/en/Microphone-Breakout)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/Mic-Breakout/tree/master/hardware)
